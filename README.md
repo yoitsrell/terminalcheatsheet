@@ -26,3 +26,15 @@ touch - creates files (ex: touch test.md - will create test.md file)
 cp - copy file. must have destination (ex: cp test test1  - will copy test file and create test1 file)
 
 mv - move file. (ex: style.css Downloads - will move style.css file to Downloads directory) can also rename file. (ex: mv style.css style2.css - will copy and create new file called style2.css and delete old style.css file)
+
+git add - adds revisions to repo
+
+git commit - records changes to repo
+
+git push - upload local repo to remote repo
+
+git pull - download and integrate with another repo
+
+git status - shows changes to be committed
+
+git log - shows git log
